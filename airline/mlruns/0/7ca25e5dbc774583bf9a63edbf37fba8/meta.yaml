@@ -1,0 +1,15 @@
+artifact_uri: file:///home/uz/Documents/kaggle_practice/airline/mlruns/0/7ca25e5dbc774583bf9a63edbf37fba8/artifacts
+end_time: 1728796996851
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ca25e5dbc774583bf9a63edbf37fba8
+run_name: stylish-loon-602
+run_uuid: 7ca25e5dbc774583bf9a63edbf37fba8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728796947884
+status: 3
+tags: []
+user_id: uz

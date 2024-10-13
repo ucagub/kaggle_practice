@@ -1,0 +1,15 @@
+artifact_uri: file:///home/uz/Documents/kaggle_practice/airline/mlruns/0/f52e7a1b79fc4bc786935725b66f8b45/artifacts
+end_time: 1728796740773
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f52e7a1b79fc4bc786935725b66f8b45
+run_name: magnificent-seal-99
+run_uuid: f52e7a1b79fc4bc786935725b66f8b45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728796693559
+status: 3
+tags: []
+user_id: uz

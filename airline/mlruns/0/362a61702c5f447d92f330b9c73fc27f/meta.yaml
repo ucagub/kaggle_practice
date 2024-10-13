@@ -1,0 +1,15 @@
+artifact_uri: file:///home/uz/Documents/kaggle_practice/airline/mlruns/0/362a61702c5f447d92f330b9c73fc27f/artifacts
+end_time: 1728795064868
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 362a61702c5f447d92f330b9c73fc27f
+run_name: suave-wasp-728
+run_uuid: 362a61702c5f447d92f330b9c73fc27f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728795064207
+status: 4
+tags: []
+user_id: uz

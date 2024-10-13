@@ -1,0 +1,15 @@
+artifact_uri: file:///home/uz/Documents/kaggle_practice/airline/mlruns/0/0aeda4fb5cbe48ef9fb50c11e375a9c4/artifacts
+end_time: 1728795087279
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0aeda4fb5cbe48ef9fb50c11e375a9c4
+run_name: loud-rat-701
+run_uuid: 0aeda4fb5cbe48ef9fb50c11e375a9c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728795086848
+status: 4
+tags: []
+user_id: uz

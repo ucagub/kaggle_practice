@@ -1,0 +1,15 @@
+artifact_uri: file:///home/uz/Documents/kaggle_practice/airline/mlruns/0/9528e247695441ae9244faf39a80ff64/artifacts
+end_time: 1728795455798
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9528e247695441ae9244faf39a80ff64
+run_name: clumsy-fish-704
+run_uuid: 9528e247695441ae9244faf39a80ff64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728795451133
+status: 3
+tags: []
+user_id: uz

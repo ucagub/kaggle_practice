@@ -1,0 +1,15 @@
+artifact_uri: file:///home/uz/Documents/kaggle_practice/airline/mlruns/0/96addecae94f4ddd84c9d29939fd12ec/artifacts
+end_time: 1728795739877
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 96addecae94f4ddd84c9d29939fd12ec
+run_name: thoughtful-sheep-272
+run_uuid: 96addecae94f4ddd84c9d29939fd12ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728795739434
+status: 4
+tags: []
+user_id: uz

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/uz/Documents/kaggle_practice/airline/mlruns/0/33eb56508d11405aa7cf657679a9e6c4/artifacts
+end_time: 1728796808592
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 33eb56508d11405aa7cf657679a9e6c4
+run_name: bold-zebra-56
+run_uuid: 33eb56508d11405aa7cf657679a9e6c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728796762110
+status: 4
+tags: []
+user_id: uz

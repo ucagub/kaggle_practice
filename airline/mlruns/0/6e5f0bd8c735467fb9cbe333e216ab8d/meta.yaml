@@ -1,0 +1,15 @@
+artifact_uri: file:///home/uz/Documents/kaggle_practice/airline/mlruns/0/6e5f0bd8c735467fb9cbe333e216ab8d/artifacts
+end_time: 1728796692088
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e5f0bd8c735467fb9cbe333e216ab8d
+run_name: dapper-donkey-843
+run_uuid: 6e5f0bd8c735467fb9cbe333e216ab8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728796648776
+status: 4
+tags: []
+user_id: uz

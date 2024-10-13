@@ -1,0 +1,15 @@
+artifact_uri: file:///home/uz/Documents/kaggle_practice/airline/mlruns/0/f18c0ba45cf74ed3aa2f79554358a046/artifacts
+end_time: 1728795697269
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f18c0ba45cf74ed3aa2f79554358a046
+run_name: peaceful-shoat-999
+run_uuid: f18c0ba45cf74ed3aa2f79554358a046
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728795692484
+status: 4
+tags: []
+user_id: uz

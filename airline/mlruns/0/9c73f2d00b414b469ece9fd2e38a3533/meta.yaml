@@ -1,0 +1,15 @@
+artifact_uri: file:///home/uz/Documents/kaggle_practice/airline/mlruns/0/9c73f2d00b414b469ece9fd2e38a3533/artifacts
+end_time: 1728795766526
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c73f2d00b414b469ece9fd2e38a3533
+run_name: colorful-mare-287
+run_uuid: 9c73f2d00b414b469ece9fd2e38a3533
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728795765800
+status: 4
+tags: []
+user_id: uz

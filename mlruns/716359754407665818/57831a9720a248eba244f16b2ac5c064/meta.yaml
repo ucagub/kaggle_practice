@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/716359754407665818/57831a9720a248eba244f16b2ac5c064/artifacts
+end_time: 1728804612903
+entry_point_name: ''
+experiment_id: '716359754407665818'
+lifecycle_stage: active
+run_id: 57831a9720a248eba244f16b2ac5c064
+run_name: peaceful-grouse-647
+run_uuid: 57831a9720a248eba244f16b2ac5c064
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728804562348
+status: 3
+tags: []
+user_id: uz

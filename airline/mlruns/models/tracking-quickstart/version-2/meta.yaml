@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1728797862395
+current_stage: None
+description: null
+last_updated_timestamp: 1728797862395
+name: tracking-quickstart
+run_id: f4b7b3261f0244918fff726717f3f03c
+run_link: null
+source: file:///home/uz/Documents/kaggle_practice/airline/mlruns/0/f4b7b3261f0244918fff726717f3f03c/artifacts/xgboost_pipeline_model
+status: READY
+status_message: null
+storage_location: file:///home/uz/Documents/kaggle_practice/airline/mlruns/0/f4b7b3261f0244918fff726717f3f03c/artifacts/xgboost_pipeline_model
+user_id: null
+version: 2

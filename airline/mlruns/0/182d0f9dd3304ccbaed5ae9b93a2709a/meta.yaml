@@ -1,0 +1,15 @@
+artifact_uri: file:///home/uz/Documents/kaggle_practice/airline/mlruns/0/182d0f9dd3304ccbaed5ae9b93a2709a/artifacts
+end_time: 1728795750295
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 182d0f9dd3304ccbaed5ae9b93a2709a
+run_name: caring-ant-190
+run_uuid: 182d0f9dd3304ccbaed5ae9b93a2709a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728795749801
+status: 4
+tags: []
+user_id: uz
