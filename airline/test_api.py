@@ -2,7 +2,6 @@ import requests
 
 # Example usage
 data= {
-    "Unnamed: 0": 1,
     "id": 101,
     "Gender": "Male",
     "Customer Type": "Loyal Customer",
@@ -28,5 +27,5 @@ data= {
     "Arrival Delay in Minutes": None,
     "satisfaction": "satisfied"
 }
-response = requests.post(url='http://127.0.0.1:5000/predict', json=data)
+response = requests.post(url='http://127.0.0.1:8080/predict', json=data)
 print(response.json())
