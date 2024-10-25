@@ -13,6 +13,8 @@ This notebook compares four classifiers to predict airline passenger satisfactio
   
 - The feature identified as the most important for predicting passenger satisfaction was **Inflight WiFi Service**.
 
+Flask API was dockerized.
+
 ## Table of Contents
 1. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
 2. [Model Training and Optimization](#model-training-and-optimization)
