@@ -1,11 +1,11 @@
-import { BrowserRouter, Route, Router, Routes } from "react-router-dom"
-import HomePage from "./pages/HomePage"
+import { BrowserRouter, Route, Routes } from "react-router-dom"
+import InteractiveMapPage from "./pages/InteractiveMapPage"
 
 const App: React.FC = () => {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path='/' element={<HomePage />}/>
+        <Route path='/' element={<InteractiveMapPage />}/>
       </Routes>
     </BrowserRouter>
   )
