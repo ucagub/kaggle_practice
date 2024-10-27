@@ -20,17 +20,11 @@ This repository contains various machine learning notebooks for different tasks,
 - **Optuna**
 
 ### Additional Tools
-- **Flask API** with Pydantic for building web applications.
+- **Flask API** with Pydantic.
 - **MLflow** for managing the machine learning lifecycle.
 - **Imbalanced-learn** (`imblearn`) for handling imbalanced datasets.
+- **Docker** for containerization.
 
 ### Visualization
 - **Matplotlib**: `matplotlib.pyplot`
 - **Seaborn**
-
-## Getting Started
-
-To get started with the notebooks, ensure you have the required libraries installed. You can install them using pip:
-
-```bash
-pip install -r requirements.txt
